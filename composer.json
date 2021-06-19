@@ -1,0 +1,21 @@
+{
+    "name": "gaomingcode/composer.js",
+    "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "browser", "fullscreen"
+    ],
+    "homepage": "sindresorhus.com/screenfull.js",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Sindre Sorhus",
+            "email": "sindresorhus@gmail.com",
+            "url": "sindresorhus.com"
+        }
+    ]
+}
