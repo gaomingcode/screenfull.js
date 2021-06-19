@@ -1,5 +1,5 @@
 {
-    "name": "gaomingcode/composer.js",
+    "name": "gaomingcode/screenfull.js",
     "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen.",
     "type": "library",
     "license": [
