@@ -1,5 +1,19 @@
 # screenfull.js
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/screenfull.js.svg)](https://github.com/gaomingcode/screenfull.js)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/screenfull.js)](https://github.com/gaomingcode/screenfull.js)
+[![Github License](https://img.shields.io/github/license/gaomingcode/screenfull.js)](https://github.com/gaomingcode/screenfull.js)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/screenfull.js
+```
+
+## ReadMe from Origin
+
 > Simple wrapper for cross-browser usage of the JavaScript [Fullscreen API](https://developer.mozilla.org/en/DOM/Using_full-screen_mode), which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
 
 **[Not supported on iPhone](#support)**
